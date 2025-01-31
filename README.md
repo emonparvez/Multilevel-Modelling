@@ -56,7 +56,7 @@ This project explores the application of **Multilevel Models (MLM)** for analyzi
 - **Speekenbrink (2023)** – *Linear Mixed Models in Cognitive Science*  
 
 ## 📬 Contact  
-For questions or contributions, feel free to reach out via **GitHub Issues** or email **[Your Email]**.  
+For questions or contributions, feel free to reach out via **GitHub Issues**.  
 
 ---
 🌟 **If you find this project helpful, consider giving it a ⭐ on GitHub!**  
